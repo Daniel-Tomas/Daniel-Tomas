@@ -1,4 +1,5 @@
 [My portfolio](https://daniel-tomas.github.io/portfolio/) 👾
+[My code snippets](https://gist.github.com/Daniel-Tomas)
 
 <!--
 **Daniel-Tomas/Daniel-Tomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
